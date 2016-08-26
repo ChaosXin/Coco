@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Coco.iml" filepath="$PROJECT_DIR$/Coco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recvcleviewdemo/recvcleviewdemo.iml" filepath="$PROJECT_DIR$/recvcleviewdemo/recvcleviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yibu/yibu.iml" filepath="$PROJECT_DIR$/yibu/yibu.iml" />
+    </modules>
+  </component>
+</project>
